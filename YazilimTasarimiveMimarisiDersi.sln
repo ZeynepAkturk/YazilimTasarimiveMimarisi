@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDeseni_Ornek0", "Faca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDeseni_Ornek1", "FacadeDeseni_Ornek1\FacadeDeseni_Ornek1.csproj", "{F3E23549-CCCB-4F12-A5ED-794FD5D82ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDeseni_Ornek0", "AdapterDeseni_Ornek0\AdapterDeseni_Ornek0.csproj", "{CEB458B8-8E58-48E6-A0CC-0A9AE0DE0A4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDeseni_Ornek0", "AdapterDeseni_Ornek0\AdapterDeseni_Ornek0.csproj", "{CEB458B8-8E58-48E6-A0CC-0A9AE0DE0A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDeseni_Ornek1", "AdapterDeseni_Ornek1\AdapterDeseni_Ornek1.csproj", "{1A568DC1-791C-49A2-905B-B84F5E5FD338}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDeseni_Ornek1", "AdapterDeseni_Ornek1\AdapterDeseni_Ornek1.csproj", "{1A568DC1-791C-49A2-905B-B84F5E5FD338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDeseni_Ornek0", "BridgeDeseni_Ornek0\BridgeDeseni_Ornek0.csproj", "{690722FF-457D-4E88-8045-302EA108E72A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDeseni_Ornek1", "BridgeDeseni_Ornek1\BridgeDeseni_Ornek1.csproj", "{2B2D667B-216C-4D50-97C3-07709F941CCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{1A568DC1-791C-49A2-905B-B84F5E5FD338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A568DC1-791C-49A2-905B-B84F5E5FD338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A568DC1-791C-49A2-905B-B84F5E5FD338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690722FF-457D-4E88-8045-302EA108E72A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690722FF-457D-4E88-8045-302EA108E72A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690722FF-457D-4E88-8045-302EA108E72A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690722FF-457D-4E88-8045-302EA108E72A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
