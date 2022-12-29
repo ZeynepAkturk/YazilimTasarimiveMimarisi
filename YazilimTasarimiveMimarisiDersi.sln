@@ -11,9 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDeseni_Ornek0", "Ada
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterDeseni_Ornek1", "AdapterDeseni_Ornek1\AdapterDeseni_Ornek1.csproj", "{1A568DC1-791C-49A2-905B-B84F5E5FD338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDeseni_Ornek0", "BridgeDeseni_Ornek0\BridgeDeseni_Ornek0.csproj", "{690722FF-457D-4E88-8045-302EA108E72A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeDeseni_Ornek0", "BridgeDeseni_Ornek0\BridgeDeseni_Ornek0.csproj", "{690722FF-457D-4E88-8045-302EA108E72A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDeseni_Ornek1", "BridgeDeseni_Ornek1\BridgeDeseni_Ornek1.csproj", "{2B2D667B-216C-4D50-97C3-07709F941CCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeDeseni_Ornek1", "BridgeDeseni_Ornek1\BridgeDeseni_Ornek1.csproj", "{2B2D667B-216C-4D50-97C3-07709F941CCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeDeseni_Ornek0", "CompositeDeseni_Ornek0\CompositeDeseni_Ornek0.csproj", "{8C3450AE-07C6-473E-A372-5FA360AE0132}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositeDeseni_Ornek1", "CompositeDeseni_Ornek1\CompositeDeseni_Ornek1.csproj", "{19DAA87A-5C89-440E-A322-353447A945F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDeseni_Ornek0", "ObserverDeseni_Ornek0\ObserverDeseni_Ornek0.csproj", "{A4FD33DE-99D3-4B5E-B17E-5367B3C0221E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObserverDeseni_Ornek1", "ObserverDeseni_Ornek1\ObserverDeseni_Ornek1.csproj", "{317A7A3C-1E73-414B-BAD1-CB583B26A0FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityDeseni_Ornek0", "ChainOfResponsibilityDeseni_Ornek0\ChainOfResponsibilityDeseni_Ornek0.csproj", "{CF21230A-BCD9-4968-9FB8-6EB360D2D980}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B2D667B-216C-4D50-97C3-07709F941CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3450AE-07C6-473E-A372-5FA360AE0132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3450AE-07C6-473E-A372-5FA360AE0132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3450AE-07C6-473E-A372-5FA360AE0132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3450AE-07C6-473E-A372-5FA360AE0132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DAA87A-5C89-440E-A322-353447A945F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DAA87A-5C89-440E-A322-353447A945F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DAA87A-5C89-440E-A322-353447A945F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DAA87A-5C89-440E-A322-353447A945F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FD33DE-99D3-4B5E-B17E-5367B3C0221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FD33DE-99D3-4B5E-B17E-5367B3C0221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FD33DE-99D3-4B5E-B17E-5367B3C0221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FD33DE-99D3-4B5E-B17E-5367B3C0221E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317A7A3C-1E73-414B-BAD1-CB583B26A0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317A7A3C-1E73-414B-BAD1-CB583B26A0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317A7A3C-1E73-414B-BAD1-CB583B26A0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317A7A3C-1E73-414B-BAD1-CB583B26A0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF21230A-BCD9-4968-9FB8-6EB360D2D980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF21230A-BCD9-4968-9FB8-6EB360D2D980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF21230A-BCD9-4968-9FB8-6EB360D2D980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF21230A-BCD9-4968-9FB8-6EB360D2D980}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
